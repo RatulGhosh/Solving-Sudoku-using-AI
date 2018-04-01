@@ -1,8 +1,5 @@
-# Solve Sudoku with AI
-
-# Build a Game-playing Agent
-
-![Example game of isolation](viz.gif)
+# Diagonal Sudoku Solver with Naked Twins
+This repository contains the solution to the first project of the Udacity Artificial Intelligence Nanodegree.
 
 ## Synopsis
 
